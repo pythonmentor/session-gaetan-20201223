@@ -1,2 +1,2 @@
-FLASK_APP = website:app
+FLASK_APP = website
 FLASK_ENV = development
